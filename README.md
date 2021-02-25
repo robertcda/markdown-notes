@@ -17,13 +17,6 @@
 1. Second item
 1. Third item
 
-## Links to images
-
-[link to google](www.google.com)
-
-![Alternate text for an image](https://angelusnews.com/wp-content/uploads/2019/06/DP-14936-010-scaled-e1590947902976-1024x575.jpg)
-
-
 ---
 ( Horizontal separator this can be a hyphen or underscores )
 ___
@@ -66,3 +59,18 @@ let a = someCode()
 * [ ] task one
 * [ ] task two
 * [ ] task three
+
+
+
+## Links to images
+
+[link to google](www.google.com)
+
+#### specifying size ( Using HTML snippet here)
+<img src="2.png" alt="drawing" width="100"/>
+
+#### Without any size
+![Local Image](2.png)
+
+#### Referencing an external linked image.
+![Alternate text for an image](https://angelusnews.com/wp-content/uploads/2019/06/DP-14936-010-scaled-e1590947902976-1024x575.jpg)
