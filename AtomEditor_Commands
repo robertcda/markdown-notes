@@ -5,10 +5,19 @@
 
 
 
+
+#### To fold code, script functions
+```
+⌘ + ⌥ + [ // To fold
+⌘ + ⌥ + ] // to unfold
+```
+
 #### When typing in markdown to show the preview of the markdown
-
-> cmd + shift + m
-
+```
+ ctrl(^) + shift + m
+```
 
 #### To search for symbols in a files
-> ⌘ + R
+```
+ ⌘ + R
+```
