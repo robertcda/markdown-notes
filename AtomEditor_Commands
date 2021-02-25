@@ -3,7 +3,10 @@
 
 
 
-
+#### To see all the modified files in a project (git)
+```
+Cmd+Shift+B
+```
 
 
 #### To fold code, script functions
@@ -15,6 +18,18 @@
 #### When typing in markdown to show the preview of the markdown
 ```
  ctrl(^) + shift + m
+```
+
+
+#### Shortcut to find commands
+```
+ cmd + Shift + P
+```
+
+
+#### To search for Files in a project
+```
+ ⌘ + R
 ```
 
 #### To search for symbols in a files
