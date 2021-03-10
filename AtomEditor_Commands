@@ -2,6 +2,10 @@
 
 
 
+#### Shortcut to find commands
+```
+ cmd + Shift + P
+```
 
 #### To see all the modified files in a project (git)
 ```
@@ -21,10 +25,6 @@ Cmd+Shift+B
 ```
 
 
-#### Shortcut to find commands
-```
- cmd + Shift + P
-```
 
 
 #### To search for Files in a project
